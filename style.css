@@ -251,3 +251,9 @@ text-align: right;
 
 
 }
+.col-lg-12 .btn-group {
+    color: #5B2333;
+}
+.col-lg-12 .btn-group .btn.btn-link {
+    color: #5B2333;
+}
